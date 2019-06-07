@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "611823ef98759c866bb87bdc856ecbb7",
+    "revision": "6ea49839f65e6cca4edf2ad0e1a242d6",
     "url": "/JaderCleber/consultar-cep-react/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JaderCleber/consultar-cep-react/static/js/2.8489b688.chunk.js"
   },
   {
-    "revision": "b256bcb680c08a91ad7b",
-    "url": "/JaderCleber/consultar-cep-react/static/js/main.471cb7ea.chunk.js"
+    "revision": "f664508b01e81279863f",
+    "url": "/JaderCleber/consultar-cep-react/static/js/main.d47b6006.chunk.js"
   },
   {
     "revision": "6128cbfadccc0cd42c3d",
