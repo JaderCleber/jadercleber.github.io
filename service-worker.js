@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/JaderCleber/consultar-cep-react/precache-manifest.20cf02ffe9898ac8c844c236e7208e2c.js"
+  "/JaderCleber/consultar-cep-react/precache-manifest.8decaaa8989397d5921321a0980aee2d.js"
 );
 
 self.addEventListener('message', (event) => {
